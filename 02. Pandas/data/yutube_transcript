@@ -1,0 +1,22 @@
+Get started with Groupby and Aggregate in Pandas ()
+Import the diamond dataset and do basic EDA - df, describe(), info() - check the data types
+
+Grouping in a single dimension: groupby by cut and apply mean() function
+  - fair, good, ideal, Premium and Very good
+  - What Objects a goupby function returns?
+  - Perform descriptive statistics on top of GroupBy Objects
+
+Grouping in multiple dimesnions: apply groupby on multiple columns
+- groupby on cut and carat
+
+NOTE: What Objects GroupBy function returns? DataframeGroupBy Object
+- Can I apply groupby on dataframe and series
+
+Aggregate functions in Pandas - agg()
+- Learn about pandas agg() interface and pass any Numpy aggregate functions like sum(), min() and max()
+- When will the aggregate function return a Series and a Dataframe
+- Apply multiple agg() on a groupby Object
+
+Select Nth values using - GroupBy.nth(n)
+
+Thank you for Watching the Tutorial - 
